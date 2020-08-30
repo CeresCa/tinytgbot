@@ -1,0 +1,17 @@
+[telegram]
+bot_token = " "
+telegraph_token = " "
+
+[urbandict]
+dict_api_url = "https://api.urbandictionary.com/v0/define?term="
+
+[twitter]
+access_secret = " "
+access_token = " "
+consumer_key = " "
+consumer_secret = " "
+
+[stock]
+us_stock_api_url = "https://www.laohu8.com/proxy/stock/stock_info/time_trend/day/"
+hk_stock_api_url = "https://www.laohu8.com/proxy/stock/hkstock/stock_info/time_trend/day/"
+cn_stock_api_url = "https://www.laohu8.com/proxy/stock/astock/stock_info/time_trend/day/"
