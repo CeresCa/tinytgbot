@@ -14,7 +14,7 @@ import (
 	"github.com/spf13/viper"
 	tb "gopkg.in/tucnak/telebot.v2"
 
-	chart "github.com/wcharczuk/go-chart"
+	"github.com/wcharczuk/go-chart"
 	"github.com/wcharczuk/go-chart/drawing"
 )
 
