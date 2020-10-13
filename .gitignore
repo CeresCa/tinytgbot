@@ -19,4 +19,4 @@
 deploy.sh
 conf.toml
 go.sum
-tgbotgo
+tinytgbot
